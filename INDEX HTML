@@ -3,7 +3,7 @@
 <html lang="pt-br">
 
 <head>
-    <title>Adriano Surano (RU 1791973) - Fundamentos de Programação WEB</title>
+    <title>Felipe Wyclef Do N.Oliveira (RU 3671412) - Ferramentas de Desenvolvimento de WEB</title>
     <meta charset="utf-8">
 
     <!--CSS-->
@@ -25,7 +25,7 @@
     <main>
         <header>
             <h1>Portifólio pessoal: CV</h1>
-            <h2>Adriano Bonaldi Surano</h2>
+            <h2>Felipe Wyclef Do N.Oliveira</h2>
         </header>
 
         <article class="tabcontent" id="inicio">
@@ -41,7 +41,7 @@
             </section>            
 
             <section>
-                <p>Adriano Bonaldi Surano - RU 1791973</p>
+                <p>Felipe Wyclef Do N.Oliveira - RU 367412</p>
                 <p>Fundamentos de Programação WEB</p>
                 <p>Centro Universitário Uninter</p>
             </section>
@@ -50,14 +50,14 @@
         <article class="tabcontent" id="formacao">
             <section>
                 <h3>Formação</h3>
-                <p><a class="link" href="https://www.linkedin.com/in/adrianosurano/" target="_blank">LinkedIn</a></p>
+                <p><a class="link" href="https://www.linkedin.com/in/Felipe Wyclef Do N.Oliveira/" target="_blank">LinkedIn</a></p>
             </section>
         </article>
 
         <article class="tabcontent" id="portifolio">
             <section>
                 <h3>Portifólio</h3>
-                <p><a class="link" href="https://github.com/adrianosurano" target="_blank">GitHub</a></p>
+                <p><a class="link" href="https://github.com/Felipe Wyclef Do N.Oliveira" target="_blank">GitHub</a></p>
             </section>
         </article>
 
